@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BikeMobile" parallel="tests">
+  <test thread-count="5" name="Combined1">
+    <classes>
+      <class name="mobiles.IPhone"/> 
+      <class name="mobiles.Motorola"/>
+      <class name="mobiles.Vivo"/>
+      <class name="mobiles.Redmi"/>
+    </classes>
+  </test> <!-- Combined1 -->
+  
+  <test thread-count="5" name="Combined2">
+    <classes>
+      <class name="Bikes.RoyalEnfield"/>
+      <class name="Bikes.Kawasaki"/>
+      <class name="Bikes.Yamaha"/>
+      <class name="mobiles.Redmi"/>
+    </classes>
+  </test>
+</suite> <!-- BikeMobile -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="classes">
+    <classes>
+      <class name="mobiles.IPhone"/>
+      <class name="Bikes.Jawa"/>
+      <class name="mobiles.Motorola"/>
+      <class name="mobiles.Vivo"/>
+      <class name="Bikes.RoyalEnfield"/>
+      <class name="Bikes.Yamaha"/>
+      <class name="Bikes.Kawasaki"/>
+      <class name="mobiles.Redmi"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

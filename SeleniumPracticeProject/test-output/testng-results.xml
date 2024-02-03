@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T18:08:30 IST" name="Default suite" finished-at="2024-01-25T18:08:30 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T18:08:30 IST" name="Default test" finished-at="2024-01-25T18:08:30 IST" duration-ms="41">
+      <class name="configurationAnnotations.LearningConfigAnnotation">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="beforeSuite" finished-at="2024-01-25T18:08:30 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="demo2()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="demo2" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="beforeClass" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="beforeMethod" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="demo()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="demo" finished-at="2024-01-25T18:08:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="afterMethod" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="beforeMethod" finished-at="2024-01-25T18:08:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="sample()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="sample" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="afterMethod" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="afterTest" finished-at="2024-01-25T18:08:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:configurationAnnotations.LearningConfigAnnotation@33bc72d1]" started-at="2024-01-25T18:08:30 IST" name="afterSuite" finished-at="2024-01-25T18:08:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- configurationAnnotations.LearningConfigAnnotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
